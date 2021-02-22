@@ -121,7 +121,9 @@ int main()
     int choice = 0;
     string name, owner, num, adress, type;
 
-    while (work)
+    cout << "Just added this cout and that`s all!" << endl;
+
+    /*while (work)
     {
         cout << "Choose operation: " << endl;
         cout << "1-Add contact,2-Print, 3-Search by name, 4-Search by owner, 5-Search by phone number, 6-Search by work type, 7-exit" << endl;
@@ -176,5 +178,5 @@ int main()
             work = false;
         }
         }
-    }
+    }*/
 }
