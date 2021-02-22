@@ -122,7 +122,7 @@ int main()
     string name, owner, num, adress, type;
 
     cout << "Just added this cout and that`s all!" << endl;
-
+    cout << "Added this line on github.com" << endl;
     /*while (work)
     {
         cout << "Choose operation: " << endl;
